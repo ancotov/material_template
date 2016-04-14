@@ -37,7 +37,6 @@ public class SubActivity extends AppCompatActivity {
 	
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
-		// TODO Auto-generated method stub
 		
 		int id = item.getItemId();
 		

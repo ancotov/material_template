@@ -40,6 +40,7 @@ public class SubActivity extends AppCompatActivity {
 		
 		int id = item.getItemId();
 		
+		//home button
 		if (id == android.R.id.home) {
 			NavUtils.navigateUpFromSameTask(this);
 			

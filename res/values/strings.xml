@@ -5,5 +5,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="next">Далее</string>
     <string name="title_activity_sub">SubActivity</string>
+    
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    
 
 </resources>
